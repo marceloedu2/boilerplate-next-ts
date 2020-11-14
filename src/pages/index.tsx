@@ -1,12 +1,11 @@
 import React from 'react'
-import Head from 'next/head'
+import Main from 'components/Main'
 
 export default function Home() {
   return (
     <div>
-      <Head>
-        <title>Create Next App</title>
-      </Head>
+      <Main />
     </div>
   )
 }
+//26. Configurando o PWA
