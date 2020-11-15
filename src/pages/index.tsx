@@ -1,5 +1,5 @@
 import React from 'react'
-import Main from 'components/Main'
+import Main from '@/components/Main'
 
 export default function Home() {
   return (
@@ -8,4 +8,3 @@ export default function Home() {
     </div>
   )
 }
-//26. Configurando o PWA
